@@ -1,0 +1,20 @@
+{
+    "database_info": {
+      "host": "localhost",
+      "user": "root",
+      "password": "",
+      "database": "databasename"
+    },
+    "discordwebhook": {
+      "enable": true,
+      "webhook": "webhookurl",
+      "color": "#000000",
+      "footer": "Flight Backup"
+    },
+    "backup_schedule": {
+      "days": "all",
+      "hours": "all",
+      "minutes": [0, 30]
+    }
+  }
+  
