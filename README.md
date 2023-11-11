@@ -11,6 +11,6 @@ A resource that backups fivem servers databases, on a calendar format. Choose wh
 
 ## Links
 
-![website](https://flightdev.co)
-![tebex](https://fivem.flightdev.co)
-![discord](https://discord.gg/flightdev)
+[website](https://flightdev.co)
+[tebex](https://fivem.flightdev.co)
+[discord](https://discord.gg/flightdev)
