@@ -9,6 +9,10 @@ A resource that backups fivem servers databases, on a calendar format. Choose wh
 - Local storage in script files
 - Configurable Time
 
+## Installation
+
+- run: npm i / yarn / pnpm i (in the main folder of the resource)
+
 ## Links
 
 [website](https://flightdev.co)
